@@ -19,7 +19,7 @@
 
 ## Team
 
-- [Laurent Panek](https://github.com/Laurent-PANEK)
+- [Laurent Panek](https://github.com/l4u23n7p)
 - [Maxence Colmant](https://github.com/maxencecolmant)
 - [Valentin Marlier](https://github.com/vmarlier)
 - [Abdessalam Benharira](https://github.com/abdessalam98)
